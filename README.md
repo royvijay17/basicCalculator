@@ -15,6 +15,7 @@ This is a simple, responsive calculator built with HTML, CSS, and JavaScript. It
 
 
 ## Live Demo
+https://royvijay17.github.io/basicCalculator/
 
 
 
